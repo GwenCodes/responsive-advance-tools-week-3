@@ -121,7 +121,7 @@ p {
   br {
     display: none;
   }
-  img.thumbnails {
+  #about-thumbnails {
     flex-direction: column;
     max-width: 150px;
   }
