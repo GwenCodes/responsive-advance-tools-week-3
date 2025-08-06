@@ -122,6 +122,6 @@ p {
     flex-direction: column;
   }
   img #homepage-photos {
-    display: none;
+    visibility: hidden;
   }
 }
