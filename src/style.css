@@ -97,9 +97,6 @@ p {
   color: white;
 }
 @media (max-width: 578px) {
-  img {
-    display: none;
-  }
   p {
     font-size: 15px;
   }
@@ -121,9 +118,10 @@ p {
   br {
     display: none;
   }
-  .project-link {
-    display: block;
-    text-align: center;
-    margin: 0 20px;
+  img #about-thumbnails {
+    flex-direction: column;
+  }
+  img #homepage-photos {
+    display: none;
   }
 }
