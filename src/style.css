@@ -123,6 +123,5 @@ p {
   }
   #about-thumbnails {
     flex-direction: column;
-    max-width: 150px;
   }
 }
