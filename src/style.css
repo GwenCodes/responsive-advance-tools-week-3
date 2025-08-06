@@ -125,3 +125,7 @@ p {
     visibility: hidden;
   }
 }
+@media (min-width: 579px) {
+  img #homepage-photos {
+  }
+}
